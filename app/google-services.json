@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296465402038",
+    "project_id": "easymarkt-bcede",
+    "storage_bucket": "easymarkt-bcede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296465402038:android:792617a3b4a8558d87fe17",
+        "android_client_info": {
+          "package_name": "com.srhan.easymarkt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqI6DKxaLUU1JRw_GGJdOUHwNdd5v7Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
