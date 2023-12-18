@@ -13,7 +13,7 @@ E-Commerce Application
 - Dagger-hilt to handle dependency injection.
 - Co-routines to deal with threads.
 - view binding instead of inflating views manually view binding will take care of that.
-- Glade to load images from internet.
+- Glide to load images from internet.
 - CardView, RecyclerView
 
 
